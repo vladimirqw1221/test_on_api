@@ -1,0 +1,1 @@
+{'balance': 0, 'avatar': 'https://www.google.com/', 'localize': {'en': {'nickname': 'wbarron'}, 'ru': {'nickname': 'lavrentevaalevtina'}}}

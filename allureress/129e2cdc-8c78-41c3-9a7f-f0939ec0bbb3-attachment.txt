@@ -1,0 +1,1 @@
+{'account_status': 'active', 'balance': 'sdda', 'avatar': 'https://www.google.com/', 'localize': {'en': {'nickname': 'torressean'}, 'ru': {'nickname': 'lsemenova'}}}

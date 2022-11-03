@@ -1,0 +1,1 @@
+{'account_status': 'active', 'balance': '-10', 'avatar': 'https://www.google.com/', 'localize': {'en': {'nickname': 'joshua03'}, 'ru': {'nickname': 'fortunat1978'}}}

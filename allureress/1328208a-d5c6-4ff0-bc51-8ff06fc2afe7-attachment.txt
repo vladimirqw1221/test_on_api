@@ -1,0 +1,1 @@
+{'account_status': 'active', 'balance': 0, 'localize': {'en': {'nickname': 'jamesgarcia'}, 'ru': {'nickname': 'kulikovpanfil'}}}
